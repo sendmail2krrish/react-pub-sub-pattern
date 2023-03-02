@@ -1,0 +1,1 @@
+# react-pub-sub-pattern
